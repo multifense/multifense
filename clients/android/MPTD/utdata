@@ -1,0 +1,3 @@
+"Compile++ thumb : kernel <= kernel.cpp
+SharedLibrary  : libkernel.so
+Install        : libkernel.so => libs/armeabi/libkernel.so

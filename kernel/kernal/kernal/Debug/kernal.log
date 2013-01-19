@@ -1,0 +1,22 @@
+﻿Build started 2012-05-11 15:14:47.
+     1>Project "C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\kernal\kernal.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\kernal.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\kernel\kernel.cpp
+         kernel.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.dll" /NOLOGO /MANIFEST /ManifestFile:"Debug\kernal.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.lib" /MACHINE:X86 /DLL Debug\kernel.obj
+         LINK : C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.dll not found or not built by the last incremental link; performing full link
+            Creating library C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.lib and object C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.exp
+         kernal.vcxproj -> C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\Debug\kernal.dll;#2" /manifest Debug\kernal.dll.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\kernal.unsuccessfulbuild".
+         Touching "Debug\kernal.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\kernel\kernal\kernal\kernal.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03

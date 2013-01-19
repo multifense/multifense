@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TimesNewSimon.spritefont</Source>
+      <Name>TimesNewSimon</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\TimesNewSimon.xnb</Output>
+      <Time>2012-05-14T15:35:42.328125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>monstertalk.spritefont</Source>
+      <Name>monstertalk</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\monstertalk.xnb</Output>
+      <Time>2012-05-11T10:51:55.2303653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>startgame.png</Source>
+      <Name>startgame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\startgame.xnb</Output>
+      <Time>2012-05-11T10:51:55.6366153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>map1600x960.png</Source>
+      <Name>map1600x960</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\map1600x960.xnb</Output>
+      <Time>2012-05-11T10:51:53.4803653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CannonTower.png</Source>
+      <Name>CannonTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\CannonTower.xnb</Output>
+      <Time>2012-05-13T20:07:29.578125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>firetower.png</Source>
+      <Name>firetower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\firetower.xnb</Output>
+      <Time>2012-05-11T10:51:53.2147403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>icetower.png</Source>
+      <Name>icetower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\icetower.xnb</Output>
+      <Time>2012-05-13T20:07:37.15625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mechanicaltower.png</Source>
+      <Name>mechanicaltower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\mechanicaltower.xnb</Output>
+      <Time>2012-05-11T10:51:54.8241153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cannonproj.png</Source>
+      <Name>cannonproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\cannonproj.xnb</Output>
+      <Time>2012-05-11T10:51:53.2459903+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fireproj.png</Source>
+      <Name>fireproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\fireproj.xnb</Output>
+      <Time>2012-05-11T10:51:55.4178653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kassaproj.png</Source>
+      <Name>kassaproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\kassaproj.xnb</Output>
+      <Time>2012-05-11T10:51:54.2459903+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EconomyIcon.png</Source>
+      <Name>EconomyIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\EconomyIcon.xnb</Output>
+      <Time>2012-05-11T10:51:53.7303653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>scroll.png</Source>
+      <Name>scroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\scroll.xnb</Output>
+      <Time>2012-05-11T10:51:54.3397403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>torn.png</Source>
+      <Name>torn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\torn.xnb</Output>
+      <Time>2012-05-11T10:51:55.4491153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>startknapp.png</Source>
+      <Name>startknapp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\startknapp.xnb</Output>
+      <Time>2012-05-11T10:51:55.5897403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>resumeknapp.png</Source>
+      <Name>resumeknapp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\resumeknapp.xnb</Output>
+      <Time>2012-05-11T10:51:55.9491153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>slimemonster.png</Source>
+      <Name>slimemonster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\slimemonster.xnb</Output>
+      <Time>2012-05-11T10:51:53.5897403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>startsida.png</Source>
+      <Name>startsida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\startsida.xnb</Output>
+      <Time>2012-05-11T10:51:54.4647403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>console.jpg</Source>
+      <Name>console</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\console.xnb</Output>
+      <Time>2012-05-11T10:51:54.4959903+02:00</Time>
+    </Item>
+    <Item>
+      <Source>build.png</Source>
+      <Name>build</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\build.xnb</Output>
+      <Time>2012-05-11T10:51:54.5584903+02:00</Time>
+    </Item>
+    <Item>
+      <Source>monstericon.png</Source>
+      <Name>monstericon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\monstericon.xnb</Output>
+      <Time>2012-05-11T10:51:52.7303653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bombsprite.png</Source>
+      <Name>bombsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\bombsprite.xnb</Output>
+      <Time>2012-05-12T20:45:30.34375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>slimesprite.png</Source>
+      <Name>slimesprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\slimesprite.xnb</Output>
+      <Time>2012-05-12T20:45:29.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>red.JPG</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\red.xnb</Output>
+      <Time>2012-05-11T10:51:55.0116153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>youLose.png</Source>
+      <Name>youLose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\youLose.xnb</Output>
+      <Time>2012-05-11T10:51:54.6366153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOver.png</Source>
+      <Name>gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\gameOver.xnb</Output>
+      <Time>2012-05-11T10:51:54.9178653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>youwin.png</Source>
+      <Name>youwin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\youwin.xnb</Output>
+      <Time>2012-05-11T10:51:56.0741153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>magictower.png</Source>
+      <Name>magictower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\magictower.xnb</Output>
+      <Time>2012-05-11T10:51:52.7772403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>magicproj.png</Source>
+      <Name>magicproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\magicproj.xnb</Output>
+      <Time>2012-05-11T10:51:53.5272403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>igloproj.png</Source>
+      <Name>igloproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\igloproj.xnb</Output>
+      <Time>2012-05-11T10:51:53.8397403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Range1.png</Source>
+      <Name>Range1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\Range1.xnb</Output>
+      <Time>2012-05-11T10:51:54.1522403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Range.png</Source>
+      <Name>Range</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\Range.xnb</Output>
+      <Time>2012-05-11T11:34:43.4178653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>quickmatch.png</Source>
+      <Name>quickmatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\quickmatch.xnb</Output>
+      <Time>2012-05-11T11:37:18.5428653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>NoRange.png</Source>
+      <Name>NoRange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\NoRange.xnb</Output>
+      <Time>2012-05-11T11:41:46.7303653+02:00</Time>
+    </Item>
+    <Item>
+      <Source>statusmenu.png</Source>
+      <Name>statusmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\statusmenu.xnb</Output>
+      <Time>2012-05-11T11:47:21.1991153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>players.png</Source>
+      <Name>players</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\players.xnb</Output>
+      <Time>2012-05-11T11:52:21.5741153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>awsomemap.png</Source>
+      <Name>awsomemap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\awsomemap.xnb</Output>
+      <Time>2012-05-12T20:45:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>portalinsprite.png</Source>
+      <Name>portalinsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\portalinsprite.xnb</Output>
+      <Time>2012-05-12T21:19:43.625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>portalutsprite.png</Source>
+      <Name>portalutsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\portalutsprite.xnb</Output>
+      <Time>2012-05-12T21:19:47.90625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>searching-top.png</Source>
+      <Name>searching-top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\searching-top.xnb</Output>
+      <Time>2012-05-13T12:57:57.5625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>igloo.png</Source>
+      <Name>igloo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\igloo.xnb</Output>
+      <Time>2012-05-10T10:46:13.5625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>map1600x960 new2.png</Source>
+      <Name>map1600x960 new2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\map1600x960 new2.xnb</Output>
+      <Time>2012-05-13T13:31:04.359375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>icetower2.png</Source>
+      <Name>icetower2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\icetower2.xnb</Output>
+      <Time>2012-05-13T20:07:35.265625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fireprojsprite.png</Source>
+      <Name>fireprojsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\fireprojsprite.xnb</Output>
+      <Time>2012-05-13T20:23:52.859375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cannon.wav</Source>
+      <Name>cannon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\cannon.xnb</Output>
+      <Time>2012-05-13T20:20:22.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.wav</Source>
+      <Name>fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2012-05-13T20:21:49.78125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ice.wav</Source>
+      <Name>ice</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\ice.xnb</Output>
+      <Time>2012-05-13T20:22:03.78125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>magic.wav</Source>
+      <Name>magic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\magic.xnb</Output>
+      <Time>2012-05-13T20:22:16.9375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>multower deplayer.wav</Source>
+      <Name>multower deplayer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\multower deplayer.xnb</Output>
+      <Time>2012-05-13T20:53:43.25+02:00</Time>
+    </Item>
+    <Item>
+      <Source>deflowered torpedo.wav</Source>
+      <Name>deflowered torpedo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\deflowered torpedo.xnb</Output>
+      <Time>2012-05-13T20:56:29.71875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>multower slowed.wav</Source>
+      <Name>multower slowed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\multower slowed.xnb</Output>
+      <Time>2012-05-13T20:59:59.828125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>map1600x960ice.png</Source>
+      <Name>map1600x960ice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\map1600x960ice.xnb</Output>
+      <Time>2012-05-14T15:12:22.84375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>getready.png</Source>
+      <Name>getready</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\getready.xnb</Output>
+      <Time>2012-05-14T17:01:11.9375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>getready-top.png</Source>
+      <Name>getready-top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\getready-top.xnb</Output>
+      <Time>2012-05-14T17:04:46.609375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hatty.png</Source>
+      <Name>hatty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\hatty.xnb</Output>
+      <Time>2012-05-15T10:03:03.796875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rocky.png</Source>
+      <Name>rocky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\rocky.xnb</Output>
+      <Time>2012-05-15T10:03:10.21875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2012-05-15T15:25:04.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>startb.png</Source>
+      <Name>startb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\startb.xnb</Output>
+      <Time>2012-05-15T13:28:36.609375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>quickmatchb.png</Source>
+      <Name>quickmatchb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\quickmatchb.xnb</Output>
+      <Time>2012-05-15T13:28:55.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>resumeb.png</Source>
+      <Name>resumeb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\resumeb.xnb</Output>
+      <Time>2012-05-15T13:30:02.828125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>quickb.png</Source>
+      <Name>quickb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\quickb.xnb</Output>
+      <Time>2012-05-15T13:30:01.8125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-05-15T15:37:50.28125+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-25T15:13:24.96875+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

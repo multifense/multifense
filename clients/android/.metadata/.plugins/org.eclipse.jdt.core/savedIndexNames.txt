@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Niceye\Documents\MPTD\trunk\clients\android\.metadata\.plugins\org.eclipse.jdt.core
+2439341662.index
+3352491446.index

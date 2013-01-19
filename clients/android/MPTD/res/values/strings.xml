@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MPTDActivity!</string>
+    <string name="app_name">MPTD</string>
+    <string name="map1">Glacier of Despair</string>
+    <string name="map2">Fields of Dechamak</string>
+    <string name="backtext">Back to Menu</string>
+
+</resources>

@@ -1,0 +1,13 @@
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\C-Sharp_Server2.0.exe
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\C-Sharp_Server2.0.pdb
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\obj\x86\Debug\C-Sharp_Server2.0.exe
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\server\C-Sharp_Server2.0\C-Sharp_Server2.0\obj\x86\Debug\C-Sharp_Server2.0.pdb
+F:\server\C-Sharp_Server2.0\C-Sharp_Server2.0\obj\x86\Debug\C-Sharp_Server2.0.exe
+F:\server\C-Sharp_Server2.0\C-Sharp_Server2.0\obj\x86\Debug\C-Sharp_Server2.0.pdb
+F:\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\C-Sharp_Server2.0.exe
+F:\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\C-Sharp_Server2.0.pdb
+F:\server\C-Sharp_Server2.0\C-Sharp_Server2.0\bin\Debug\nunit.framework.xml
+F:\server\C-Sharp_Server2.0\C-Sharp_Server2.0\obj\x86\Debug\ResolveAssemblyReference.cache

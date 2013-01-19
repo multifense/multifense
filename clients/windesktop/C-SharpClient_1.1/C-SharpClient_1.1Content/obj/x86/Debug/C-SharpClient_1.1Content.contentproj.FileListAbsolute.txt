@@ -1,0 +1,4 @@
+C:\Documents and Settings\ReverS\My Documents\Project 3c\C-SharpClient_1.1\C-SharpClient_1.1\C-SharpClient_1.1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ReverS\My Documents\Project 3c\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\MPTD\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+\\nerd-comp4\tdmp\trunk\clients\windesktop\C-SharpClient_1.1\C-SharpClient_1.1Content\obj\x86\Debug\ResolveAssemblyReference.cache

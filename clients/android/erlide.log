@@ -1,0 +1,5 @@
+14:52:00,147 F: (ErlangCore.java:72) : Starting CORE Thread[org.eclipse.jdt.internal.ui.text.JavaReconciler,1,main]
+14:52:00,184 I: (ErlangCoreLogger.java:42) : *** starting Erlide v0.15.2.201203201350 (core=0.15.2.201203201350) *** (Cp1252) 
+14:52:00,380 F: (ErlangCore.java:89) : Started CORE
+14:52:00,492 F: (ErlideUIPlugin.java:138) : Starting UI Thread[org.eclipse.jdt.internal.ui.text.JavaReconciler,1,main]
+14:52:00,493 F: (ErlideUIPlugin.java:145) : Started UI
