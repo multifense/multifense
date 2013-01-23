@@ -10,5 +10,6 @@ A lot of improvements were planned but the team is too busy with school right no
 license
 =======
 
-Code, graphics and sounds are licensed under the GNU GPL v3. 
+Code, graphics and sounds are licensed under the GNU GPL v3, with the exception of some sound effects and textures (we will provide the links for these as soon as we've found them, or remove/replace these if we can't).
+
 
